@@ -1,9 +1,9 @@
-# Ask James - The "Like Tweets" Twitter Bot
+# FemBylethBot - The "Edelgard Is Best Girl" Twitter Bot
 
-There is an article explaining the usage of this code here:
+There is an article explaining the usage of the original version of this code here:
 https://read.acloud.guru/build-a-serverless-twitter-bot-that-interacts-using-sentiment-analysis-fbb6e528628.
 
-You can test out what happens by sending a positive tweet to @jbesw - you will receive an automatic like within 5 minutes from this bot.
+You can test out what happens with the original code by sending a positive tweet to @jbesw - you will receive an automatic like within 5 minutes from that bot.
 
 ## Table of Contents
 
@@ -26,4 +26,4 @@ Don't forget to:
 
 ## Support
 
-If you have any questions or comments, feel free to contact me (James Beswick) at @jbesw. I hope you enjoy!
+If you have any questions or comments about the original code, feel free to contact James Beswick at @jbesw.
