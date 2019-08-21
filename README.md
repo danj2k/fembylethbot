@@ -24,6 +24,7 @@ Don't forget to:
 - Update the query parameters
 - Inspect the schedule in serverless.yaml
 - See exampleResponse.json for an example of what a typical Twitter API response looks like.
+- Check the [Twitter Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation) to make sure you're compliant. In particular, you can no longer "like" in an automated manner!
 
 ## Support
 
